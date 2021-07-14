@@ -41,4 +41,13 @@ main {
   columns:#999999 ;
 }
 
+main a{
+    font-size: 40px;
+    text-decoration: none;
+}
+
+main a:hover{
+    color: rgb(248, 143, 101);
+     font-size: 60px;
+}
 
